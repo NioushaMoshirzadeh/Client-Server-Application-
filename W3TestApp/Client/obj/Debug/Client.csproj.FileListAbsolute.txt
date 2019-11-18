@@ -1,0 +1,10 @@
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\bin\Debug\Client.exe.config
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\bin\Debug\Client.exe
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\bin\Debug\Client.pdb
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\obj\Debug\Client.Form1.resources
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\obj\Debug\Client.exe
+C:\Users\nisha\Documents\CSA\W3TestApp\Client\obj\Debug\Client.pdb

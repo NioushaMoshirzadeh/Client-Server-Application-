@@ -1,0 +1,7 @@
+C:\Users\nisha\Documents\CSA\W3TestApp\W3TestApp\bin\Debug\W3TestApp.dll.config
+C:\Users\nisha\Documents\CSA\W3TestApp\W3TestApp\bin\Debug\W3TestApp.dll
+C:\Users\nisha\Documents\CSA\W3TestApp\W3TestApp\bin\Debug\W3TestApp.pdb
+C:\Users\nisha\Documents\CSA\W3TestApp\W3TestApp\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\nisha\Documents\CSA\W3TestApp\W3TestApp\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\nisha\Documents\CSA\W3TestApp\W3TestApp\obj\Debug\W3TestApp.dll
+C:\Users\nisha\Documents\CSA\W3TestApp\W3TestApp\obj\Debug\W3TestApp.pdb

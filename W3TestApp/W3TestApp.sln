@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "W3TestApp\Service.csproj", "{2A4BA663-FDA3-4207-9754-EE43D82020D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{01021974-AB44-4D7E-A043-D542668A6722}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2A4BA663-FDA3-4207-9754-EE43D82020D2} = {2A4BA663-FDA3-4207-9754-EE43D82020D2}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4BA663-FDA3-4207-9754-EE43D82020D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4BA663-FDA3-4207-9754-EE43D82020D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4BA663-FDA3-4207-9754-EE43D82020D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4BA663-FDA3-4207-9754-EE43D82020D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01021974-AB44-4D7E-A043-D542668A6722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01021974-AB44-4D7E-A043-D542668A6722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01021974-AB44-4D7E-A043-D542668A6722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01021974-AB44-4D7E-A043-D542668A6722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {384D75C3-014F-4707-8BE0-7C6B4CD07B77}
+	EndGlobalSection
+EndGlobal

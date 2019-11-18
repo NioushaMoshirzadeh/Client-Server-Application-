@@ -1,0 +1,7 @@
+c:\users\876989\source\repos\W3TestApp\W3TestApp\bin\Debug\W3TestApp.dll.config
+c:\users\876989\source\repos\W3TestApp\W3TestApp\bin\Debug\W3TestApp.dll
+c:\users\876989\source\repos\W3TestApp\W3TestApp\bin\Debug\W3TestApp.pdb
+c:\users\876989\source\repos\W3TestApp\W3TestApp\obj\Debug\W3TestApp.csprojResolveAssemblyReference.cache
+c:\users\876989\source\repos\W3TestApp\W3TestApp\obj\Debug\W3TestApp.csproj.CoreCompileInputs.cache
+c:\users\876989\source\repos\W3TestApp\W3TestApp\obj\Debug\W3TestApp.dll
+c:\users\876989\source\repos\W3TestApp\W3TestApp\obj\Debug\W3TestApp.pdb
